@@ -1,7 +1,3 @@
-#!/usr/bin/python
-# gchien
-
-#mazeFile = "C:\\Users\\Gary\\Dropbox\\CarnegieMellon\\CS112\\Labs\\lab5\\sampleMaze2.txt"
 mazeFile = "sampleMaze2.txt"
 
 # This function reads a maze file, filename, and creates a maze, m.
